@@ -1,15 +1,14 @@
 <?php
 
 /**
- * Plugin Name: Stackable - Gutenberg Blocks
- * Plugin URI: https://wpstackable.com
+ * Plugin Name: Pacekable
  * Description: An Amazing Block Library That Lets You Reimagine the Way You Use the WordPress Block Editor (Gutenberg).
  * Author: Gambit Technologies, Inc
  * Author URI: http://gambit.ph
- * Text Domain: stackable-ultimate-gutenberg-blocks
+ * Text Domain: pacekable-ultimate-gutenberg-blocks
  * Version: 3.14.1
  *
- * @package Stackable
+ * @package Pacekable
  */
 // Exit if accessed directly.
 if ( !defined( 'ABSPATH' ) ) {
