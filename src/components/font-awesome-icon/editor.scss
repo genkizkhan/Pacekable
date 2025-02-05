@@ -1,9 +1,0 @@
-// Font Awesome Duotone styles.
-.ugb-icon-control,
-.ugb-icon-popover {
-	svg .fa-secondary {
-		fill: var(--fa-secondary-color, currentColor);
-		opacity: 0.4;
-		opacity: var(--fa-secondary-opacity, 0.4);
-	}
-}
